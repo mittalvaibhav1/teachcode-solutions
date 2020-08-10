@@ -1,0 +1,1 @@
+print('variable'+'\n'+'product_of_12')
