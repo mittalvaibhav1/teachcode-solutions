@@ -1,14 +1,16 @@
 {
   "learningTrack": "Python",
   "userName": "Vaibhav Mittal",
-  "taskCount": 2,
+  "taskCount": 3,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
     "8err2x44ypw95u6t8nou74n1ezopwt52omy9",
-    "gb86elhwtbc6qtk9gmf31xzm6i2gdpo7ze5k"
+    "gb86elhwtbc6qtk9gmf31xzm6i2gdpo7ze5k",
+    "ze711q8mewqowz5m86xtmcagv4bp9ev4ky8q"
   ],
   "userSubmittedFiles": [
     "task1.py",
-    "task2.py"
+    "task2.py",
+    "task3.py"
   ]
 }
